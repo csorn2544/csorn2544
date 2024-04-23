@@ -1,4 +1,13 @@
 ```js
+class Person {
+  constructor(name, university, hobbies) {
+    this.name = name;
+    this.university = university;
+    this.hobbies = hobbies;
+}
+```
+
+```js
   const hobbies = [
     "Building Gunpla",
     "Playing Video Games",
