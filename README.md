@@ -1,5 +1,4 @@
 ```js
-  const skills = ["React Native", "Flutter", "UI/UX Design"];
   const hobbies = [
     "Building Gunpla",
     "Playing Video Games",
@@ -9,13 +8,17 @@
   const person = new Person(
     "Mark",
     "Kasetsart University",
-    skills,
     hobbies,
   );
 ```
-### Work Experience
-* Ananda Development Public Company Limited as IT Intern(Full Stack Developer).
-* National Telecom Public Company Limited as an intern in the position of Research Assistant.
+## Work Experience
+
+#### Ananda Development Public Company Limited
+**Position:** IT Intern (Full Stack Developer)
+
+#### National Telecom Public Company Limited
+**Position:** Research Assistant Intern
+
 ### Frameworks
 * Springboot 
 * React Native
