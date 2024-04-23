@@ -13,8 +13,12 @@
 ```
 ## Work Experience
 
-#### Ananda Development Public Company Limited
-**Position:** IT Intern (Full Stack Developer)
+<div>
+  <img width="50" src="https://github.com/csorn2544/csorn2544/blob/main/logo1.png" style="display: inline-block; vertical-align: middle;"/> 
+  <h4 style="display: inline-block; vertical-align: middle;">Ananda Development Public Company Limited</h4>
+  <p><strong>Position:</strong> IT Intern (Full Stack Developer)</p>
+</div>
+
 
 #### National Telecom Public Company Limited
 **Position:** Research Assistant Intern
