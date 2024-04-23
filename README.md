@@ -19,6 +19,8 @@
 #### National Telecom Public Company Limited
 **Position:** Research Assistant Intern
 
+##Technical Skills
+
 ### Frameworks
 * Springboot 
 * React Native
