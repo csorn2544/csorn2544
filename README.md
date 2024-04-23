@@ -24,7 +24,7 @@ class Person {
 
 | <img src="https://github.com/csorn2544/csorn2544/blob/main/logo1.png" width="90"> | <img src="https://github.com/csorn2544/csorn2544/blob/main/logo2.png" width="150"> |
 |---|---|
-| **Ananda Development Public Company Limited**<br>**Position:** IT Intern (Full Stack Developer) | **National Telecom Public Company Limited**<br>**Position:** Research Assistant Intern |
+| **Ananda Development Public Company Limited**<br>**Position:** IT Intern (Full Stack Developer)<br> **Project:** <br>https://github.com/csorn2544/template-web-ang<br>https://github.com/csorn2544/template-web-db-api | **National Telecom Public Company Limited**<br>**Position:** Research Assistant Intern |
 
 ## Technical Skills
 
