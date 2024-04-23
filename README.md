@@ -13,15 +13,9 @@
 ```
 ## Work Experience
 
-<div>
-  <img width="50" src="https://github.com/csorn2544/csorn2544/blob/main/logo1.png" style="display: inline-block; vertical-align: middle;"/> 
-  <h4 style="display: inline-block; vertical-align: middle;">Ananda Development Public Company Limited</h4>
-  <p><strong>Position:</strong> IT Intern (Full Stack Developer)</p>
-</div>
-
-
-#### National Telecom Public Company Limited
-**Position:** Research Assistant Intern
+| <img src="https://github.com/csorn2544/csorn2544/blob/main/logo1.png" width="50"> | <img src="https://github.com/csorn2544/csorn2544/blob/main/logo2.png" width="100"> |
+|---|---|
+| **Ananda Development Public Company Limited**<br>**Position:** IT Intern (Full Stack Developer) | **National Telecom Public Company Limited**<br>**Position:** Research Assistant Intern |
 
 ## Technical Skills
 
