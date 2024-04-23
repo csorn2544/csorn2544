@@ -22,7 +22,8 @@
 ##Technical Skills
 
 ### Frameworks
-* Springboot 
+* Springboot
+* React 
 * React Native
 * Flutter
 * Bootstrap
