@@ -40,9 +40,9 @@
 * Python
 * Java
 * Object-Oriented Programming
+* SOA/Web Service
 * C (Language)
 * C#
 * Dart
 * JavaScript
 * TypeScript
-* SOA/Web Service
