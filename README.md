@@ -23,9 +23,9 @@ class Person {
 ```
 ## Work Experience
 
-| <img src="https://github.com/csorn2544/csorn2544/blob/main/logo1.png" width="90"> | <img src="https://github.com/csorn2544/csorn2544/blob/main/logo2.png" width="150"> |
-|---|---|
-| **Ananda Development Public Company Limited**<br>**Position:** IT Intern (Full Stack Developer)<br> **Project:** <br>https://github.com/csorn2544/template-web-ang<br>https://github.com/csorn2544/template-web-db-api | **National Telecom Public Company Limited**<br>**Position:** Research Assistant Intern |
+| <img src="https://raw.githubusercontent.com/csorn2544/csorn2544/main/logo3.png" width="90"> | <img src="https://github.com/csorn2544/csorn2544/blob/main/logo1.png" width="90"> | <img src="https://github.com/csorn2544/csorn2544/blob/main/logo2.png" width="150"> |
+|---|---|---|
+| **Bangkok Bank Public Company Limited**<br>**Position:** Programmer<br> | **Ananda Development Public Company Limited**<br>**Position:** IT Intern (Full Stack Developer)<br> **Project:** <br>https://github.com/csorn2544/template-web-ang<br>https://github.com/csorn2544/template-web-db-api | **National Telecom Public Company Limited**<br>**Position:** Research Assistant Intern |
 
 ## Technical Skills
 
@@ -40,6 +40,7 @@ class Person {
 		<td><img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></td>
 		<td><img width="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></td>
 		<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/></td>
+		<td><img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></td>
 	</tr>
 </table>
 
