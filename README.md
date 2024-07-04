@@ -25,7 +25,7 @@ class Person {
 
 | <img src="https://raw.githubusercontent.com/csorn2544/csorn2544/main/logo3.png" width="90"> | <img src="https://github.com/csorn2544/csorn2544/blob/main/logo1.png" width="90"> | <img src="https://github.com/csorn2544/csorn2544/blob/main/logo2.png" width="150"> |
 |---|---|---|
-| **Bangkok Bank Public Company Limited**<br>**Position:** Programmer<br> | **Ananda Development Public Company Limited**<br>**Position:** IT Intern (Full Stack Developer)<br> **Project:** <br>https://github.com/csorn2544/template-web-ang<br>https://github.com/csorn2544/template-web-db-api | **National Telecom Public Company Limited**<br>**Position:** Research Assistant Intern |
+| **Bangkok Bank Public Company Limited**<br>**Position:** Programmer(Probation Period)<br> | **Ananda Development Public Company Limited**<br>**Position:** IT Intern (Full Stack Developer)<br> **Project:** <br>https://github.com/csorn2544/template-web-ang<br>https://github.com/csorn2544/template-web-db-api | **National Telecom Public Company Limited**<br>**Position:** Research Assistant Intern |
 
 ## Technical Skills
 
