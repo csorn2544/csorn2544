@@ -25,7 +25,7 @@ class Person {
 
 | <img src="https://raw.githubusercontent.com/csorn2544/csorn2544/main/logo3.png" width="90"> | <img src="https://github.com/csorn2544/csorn2544/blob/main/logo1.png" width="90"> | <img src="https://github.com/csorn2544/csorn2544/blob/main/logo2.png" width="150"> |
 |---|---|---|
-| **Bangkok Bank Public Company Limited**<br>**Position:** Programmer(Probation Period)<br> | **Ananda Development Public Company Limited**<br>**Position:** IT Intern (Full Stack Developer)<br> **Project:** <br>https://github.com/csorn2544/template-web-ang<br>https://github.com/csorn2544/template-web-db-api | **National Telecom Public Company Limited**<br>**Position:** Research Assistant Intern |
+| **Bangkok Bank Public Company Limited**<br>**Position:** Programmer<br> | **Ananda Development Public Company Limited**<br>**Position:** IT Intern (Full Stack Developer)<br> **Project:** <br>https://github.com/csorn2544/template-web-ang<br>https://github.com/csorn2544/template-web-db-api | **National Telecom Public Company Limited**<br>**Position:** Research Assistant Intern |
 
 ## Technical Skills
 
@@ -64,17 +64,6 @@ class Person {
 </table>
 
 ## Hardware Specifications
-### Notebook:
-
-- **Brand**: MSI GP65 Leopard [Click](https://www.msi.com/Laptop/GP65-Leopard-10SFK/Specification)
-- **Processor**: Intel(R) Core(TM) i7-10750H CPU @ 2.30 GHz 5.10 GHz [Click](https://www.intel.com/content/www/us/en/products/sku/201837/intel-core-i710750h-processor-12m-cache-up-to-5-00-ghz/specifications.html)
-- **Graphic**: NVIDIA GeForce RTX 2060 (Notebook refresh) 6GB [Click](https://www.nvidia.com/en-us/geforce/20-series/)
-- **RAM**: 16 GB 2666MHz (MSI) 
-- **Display**: 15.6" FHD IPS 144Hz
-- **OS**: Windows 11 Home
-- **Score From 3DMark** [Click](http://www.3dmark.com/spy/43866630) Date: December 15, 2023
-  - Graphics Score: 6,584
-  - CPU Score: 5,689
 
 ### PC Build:
 
