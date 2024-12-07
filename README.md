@@ -68,10 +68,10 @@ class Person {
 ### PC Build:
 
 - **Processor**: Intel(R) Core(TM) i5-13400F CPU @ 2.50 GHz 4.60 GHz [Click](https://www.intel.com/content/www/us/en/products/sku/230501/intel-core-i513400f-processor-20m-cache-up-to-4-60-ghz/specifications.html)
-- **Graphic**: NVIDIA GeForce RTX 4070 16GB (ASUS) [Click](https://www.asus.com/th/motherboards-components/graphics-cards/dual/dual-rtx4070-o12g/)
+- **Graphic**: NVIDIA GeForce RTX 4070 12GB (ASUS) [Click](https://www.asus.com/th/motherboards-components/graphics-cards/dual/dual-rtx4070-o12g/)
 - **RAM**: 32 GB 2666MHz (2x8GB + 2x8GB) (Corsair) [Click](https://www.corsair.com/us/en/p/memory/cmk16gx4m2d2666c16/vengeancea-lpx-16gb-2-x-8-gb-ddr4-dram-2666mhz-c16-memory-kit-black-cmk16gx4m2d2666c16)
 - **MBD**: Gigabyte GA-B760M DS3H DDR4 [Click](https://www.gigabyte.com/th/Motherboard/B760M-DS3H-DDR4-rev-10#kf)
 - **OS**: Windows 10 Pro
-- **Score From 3DMark** [Click](https://www.3dmark.com/spy/45513934) Date: February 9, 2024
-  - Graphics Score: 18,121
-  - CPU Score: 11,343
+- **Score From 3DMark** [Click](http://www.3dmark.com/spy/51679617) Date : December 1 2024
+  - Graphics Score : 18,082
+  - CPU Score : 11,099
